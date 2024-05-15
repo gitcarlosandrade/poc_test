@@ -1,5 +1,5 @@
-class MyClassOne {
-    override fun doSomething(): String {
-        return "Hello from MyClassOne"
+public class MyClassOne {
+    public String doSomething() {
+        return "Hello from MyClassOne";
     }
 }
